@@ -1,0 +1,23 @@
+{
+  "interstitial": {
+    "enabled": true,
+    "ad_unit_ids": [
+      "ca-app-pub-xxxxxxxxxx/INTER_1",
+      "ca-app-pub-xxxxxxxxxx/INTER_2"
+    ]
+  },
+  "native": {
+    "enabled": true,
+    "ad_unit_ids": [
+      "ca-app-pub-xxxxxxxxxx/NATIVE_1",
+      "ca-app-pub-xxxxxxxxxx/NATIVE_2"
+    ]
+  },
+  "app_open": {
+    "enabled": true,
+    "ad_unit_ids": [
+      "ca-app-pub-xxxxxxxxxx/APP_OPEN_1",
+      "ca-app-pub-xxxxxxxxxx/APP_OPEN_2"
+    ]
+  }
+}
