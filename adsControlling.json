@@ -16,9 +16,9 @@
   "app_open": {
     "enabled": true,
     "ad_unit_ids": [
-      "ca-app-pub-3940256099942544/9257395921",
-      "ca-app-pub-3940256099942544/9257395921",
-      "ca-app-pub-3940256099942544/9257395921"
+      "/21775744923/example/app-open",
+      "/21775744923/example/app-open",
+      "/21775744923/example/app-open"
     ]
   }
 }
