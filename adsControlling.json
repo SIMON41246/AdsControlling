@@ -9,8 +9,10 @@
   "native": {
     "enabled": true,
     "ad_unit_ids": [
+      "ca-app-pub-3940256099942544/398",
       "ca-app-pub-3940256099942544/3986624511",
       "ca-app-pub-3940256099942544/398"
+
     ]
   },
   "app_open": {
